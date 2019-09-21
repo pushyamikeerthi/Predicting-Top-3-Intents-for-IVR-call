@@ -1,1 +1,2 @@
 # Predicting-Top-3-Intents-for-IVR-call
+XYZ Insurance planning to implement an IVR (Interactive Voice Response) system that identifies a customer based on previous customer interactions. Customer intent is predicted for an ongoing interaction and personalized services are proactively offered to the customer. A self-optimizing algorithm improves intent prediction, customer identity, and customer willingness to engage and use IVR. This project is to generate customised short IVR with 3  expected intents to serve customers.
